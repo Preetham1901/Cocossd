@@ -1,0 +1,22 @@
+body
+{
+background-size: cover;
+background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+color:red;
+}
+canvas
+{
+box-shadow: 10px 10px 10px rgb(31, 127, 238);
+border-radius: 10px;
+}
+.btn-primary
+{
+    margin:30px;
+}
